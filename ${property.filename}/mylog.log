@@ -1,0 +1,104 @@
+[INFO ] 2024-09-16 17:40:50.405 [main] CartSD - Navigating to the login page
+[INFO ] 2024-09-16 17:40:51.547 [main] CartSD - Successfully logged in and navigated to product page
+[INFO ] 2024-09-16 17:40:51.583 [main] CartSD - Adding product Sauce Labs Backpack to the cart
+[INFO ] 2024-09-16 17:41:01.969 [main] CartSD - Product Sauce Labs Backpack added to the cart
+[INFO ] 2024-09-16 17:41:01.989 [main] CartSD - Clicking on the cart icon
+[INFO ] 2024-09-16 17:41:02.391 [main] CartSD - Navigated to the cart
+[INFO ] 2024-09-16 17:41:02.399 [main] CartSD - Verifying the product Sauce Labs Backpack is in the cart
+[INFO ] 2024-09-16 17:41:02.547 [main] CartSD - Product Sauce Labs Backpack found in the cart
+[INFO ] 2024-09-16 17:41:09.524 [main] CartSD - Logging in and adding product Sauce Labs Backpack to the cart
+[INFO ] 2024-09-16 17:41:21.148 [main] CartSD - Product Sauce Labs Backpack is added to the cart
+[INFO ] 2024-09-16 17:41:21.157 [main] CartSD - Removing product Sauce Labs Backpack from the cart
+[INFO ] 2024-09-16 17:41:31.678 [main] CartSD - Product Sauce Labs Backpack removed from the cart
+[INFO ] 2024-09-16 17:41:31.684 [main] CartSD - Verifying product Sauce Labs Backpack is no longer in the cart
+[INFO ] 2024-09-16 17:41:41.775 [main] CartSD - Product Sauce Labs Backpack successfully removed from the cart
+[INFO ] 2024-09-16 17:41:41.783 [main] CartSD - Verifying the cart count is updated
+[INFO ] 2024-09-16 17:41:41.783 [main] CartSD - Cart count successfully updated
+[INFO ] 2024-09-16 17:41:48.045 [main] CartSD - Logging in and adding product Sauce Labs Backpack to the cart
+[INFO ] 2024-09-16 17:42:00.270 [main] CartSD - Product Sauce Labs Backpack is added to the cart
+[INFO ] 2024-09-16 17:42:00.274 [main] CartSD - Clicking on the Checkout button
+[INFO ] 2024-09-16 17:42:01.136 [main] CartSD - Navigated to checkout page
+[INFO ] 2024-09-16 17:42:01.156 [main] CartSD - Entering checkout information: John, Doe, 12345
+[INFO ] 2024-09-16 17:42:08.471 [main] CartSD - Checkout information entered successfully
+[INFO ] 2024-09-16 17:42:08.485 [main] CartSD - Completing the checkout process
+[INFO ] 2024-09-16 17:42:09.723 [main] CartSD - Checkout process completed
+[INFO ] 2024-09-16 17:42:09.733 [main] CartSD - Verifying the order confirmation page is displayed
+[INFO ] 2024-09-16 17:42:10.337 [main] CartSD - Order confirmation page verified
+[INFO ] 2024-09-16 17:50:48.804 [main] CartSD - Navigating to the login page
+[INFO ] 2024-09-16 17:50:50.238 [main] CartSD - Successfully logged in and navigated to product page
+[INFO ] 2024-09-16 17:50:50.280 [main] CartSD - Adding product Sauce Labs Backpack to the cart
+[INFO ] 2024-09-16 17:51:00.578 [main] CartSD - Product Sauce Labs Backpack added to the cart
+[INFO ] 2024-09-16 17:51:00.592 [main] CartSD - Clicking on the cart icon
+[INFO ] 2024-09-16 17:51:00.803 [main] CartSD - Navigated to the cart
+[INFO ] 2024-09-16 17:51:00.814 [main] CartSD - Verifying the product Sauce Labs Backpack is in the cart
+[INFO ] 2024-09-16 17:51:00.925 [main] CartSD - Product Sauce Labs Backpack found in the cart
+[INFO ] 2024-09-16 17:51:08.200 [main] CartSD - Logging in and adding product Sauce Labs Backpack to the cart
+[INFO ] 2024-09-16 17:51:19.720 [main] CartSD - Product Sauce Labs Backpack is added to the cart
+[INFO ] 2024-09-16 17:51:19.726 [main] CartSD - Removing product Sauce Labs Backpack from the cart
+[INFO ] 2024-09-16 17:51:30.191 [main] CartSD - Product Sauce Labs Backpack removed from the cart
+[INFO ] 2024-09-16 17:51:30.198 [main] CartSD - Verifying product Sauce Labs Backpack is no longer in the cart
+[INFO ] 2024-09-16 17:51:40.260 [main] CartSD - Product Sauce Labs Backpack successfully removed from the cart
+[INFO ] 2024-09-16 17:51:40.269 [main] CartSD - Verifying the cart count is updated
+[INFO ] 2024-09-16 17:51:40.270 [main] CartSD - Cart count successfully updated
+[INFO ] 2024-09-16 17:51:47.026 [main] CartSD - Logging in and adding product Sauce Labs Backpack to the cart
+[INFO ] 2024-09-16 17:51:58.526 [main] CartSD - Product Sauce Labs Backpack is added to the cart
+[INFO ] 2024-09-16 17:51:58.536 [main] CartSD - Clicking on the Checkout button
+[INFO ] 2024-09-16 17:51:58.917 [main] CartSD - Navigated to checkout page
+[INFO ] 2024-09-16 17:51:58.934 [main] CartSD - Entering checkout information: John, Doe, 12345
+[INFO ] 2024-09-16 17:51:59.813 [main] CartSD - Checkout information entered successfully
+[INFO ] 2024-09-16 17:51:59.822 [main] CartSD - Completing the checkout process
+[INFO ] 2024-09-16 17:52:00.044 [main] CartSD - Checkout process completed
+[INFO ] 2024-09-16 17:52:00.051 [main] CartSD - Verifying the order confirmation page is displayed
+[INFO ] 2024-09-16 17:52:00.145 [main] CartSD - Order confirmation page verified
+[INFO ] 2024-09-16 17:57:39.293 [main] CartSD - Navigating to the login page
+[INFO ] 2024-09-16 17:57:39.293 [main] CartSD - Navigating to the login page
+[INFO ] 2024-09-16 17:57:41.257 [main] CartSD - Successfully logged in and navigated to product page
+[INFO ] 2024-09-16 17:57:41.257 [main] CartSD - Successfully logged in and navigated to product page
+[INFO ] 2024-09-16 17:57:41.302 [main] CartSD - Adding product Sauce Labs Backpack to the cart
+[INFO ] 2024-09-16 17:57:41.302 [main] CartSD - Adding product Sauce Labs Backpack to the cart
+[INFO ] 2024-09-16 17:57:51.882 [main] CartSD - Product Sauce Labs Backpack added to the cart
+[INFO ] 2024-09-16 17:57:51.882 [main] CartSD - Product Sauce Labs Backpack added to the cart
+[INFO ] 2024-09-16 17:57:51.895 [main] CartSD - Clicking on the cart icon
+[INFO ] 2024-09-16 17:57:51.895 [main] CartSD - Clicking on the cart icon
+[INFO ] 2024-09-16 17:57:52.607 [main] CartSD - Navigated to the cart
+[INFO ] 2024-09-16 17:57:52.607 [main] CartSD - Navigated to the cart
+[INFO ] 2024-09-16 17:57:52.615 [main] CartSD - Verifying the product Sauce Labs Backpack is in the cart
+[INFO ] 2024-09-16 17:57:52.615 [main] CartSD - Verifying the product Sauce Labs Backpack is in the cart
+[INFO ] 2024-09-16 17:57:52.911 [main] CartSD - Product Sauce Labs Backpack found in the cart
+[INFO ] 2024-09-16 17:57:52.911 [main] CartSD - Product Sauce Labs Backpack found in the cart
+[INFO ] 2024-09-16 17:58:00.617 [main] CartSD - Logging in and adding product Sauce Labs Backpack to the cart
+[INFO ] 2024-09-16 17:58:00.617 [main] CartSD - Logging in and adding product Sauce Labs Backpack to the cart
+[INFO ] 2024-09-16 17:58:13.631 [main] CartSD - Product Sauce Labs Backpack is added to the cart
+[INFO ] 2024-09-16 17:58:13.631 [main] CartSD - Product Sauce Labs Backpack is added to the cart
+[INFO ] 2024-09-16 17:58:13.642 [main] CartSD - Removing product Sauce Labs Backpack from the cart
+[INFO ] 2024-09-16 17:58:13.642 [main] CartSD - Removing product Sauce Labs Backpack from the cart
+[INFO ] 2024-09-16 17:58:25.967 [main] CartSD - Product Sauce Labs Backpack removed from the cart
+[INFO ] 2024-09-16 17:58:25.967 [main] CartSD - Product Sauce Labs Backpack removed from the cart
+[INFO ] 2024-09-16 17:58:25.976 [main] CartSD - Verifying product Sauce Labs Backpack is no longer in the cart
+[INFO ] 2024-09-16 17:58:25.976 [main] CartSD - Verifying product Sauce Labs Backpack is no longer in the cart
+[INFO ] 2024-09-16 17:58:36.052 [main] CartSD - Product Sauce Labs Backpack successfully removed from the cart
+[INFO ] 2024-09-16 17:58:36.052 [main] CartSD - Product Sauce Labs Backpack successfully removed from the cart
+[INFO ] 2024-09-16 17:58:36.062 [main] CartSD - Verifying the cart count is updated
+[INFO ] 2024-09-16 17:58:36.062 [main] CartSD - Verifying the cart count is updated
+[INFO ] 2024-09-16 17:58:36.066 [main] CartSD - Cart count successfully updated
+[INFO ] 2024-09-16 17:58:36.066 [main] CartSD - Cart count successfully updated
+[INFO ] 2024-09-16 17:58:43.017 [main] CartSD - Logging in and adding product Sauce Labs Backpack to the cart
+[INFO ] 2024-09-16 17:58:43.017 [main] CartSD - Logging in and adding product Sauce Labs Backpack to the cart
+[INFO ] 2024-09-16 17:58:55.116 [main] CartSD - Product Sauce Labs Backpack is added to the cart
+[INFO ] 2024-09-16 17:58:55.116 [main] CartSD - Product Sauce Labs Backpack is added to the cart
+[INFO ] 2024-09-16 17:58:55.122 [main] CartSD - Clicking on the Checkout button
+[INFO ] 2024-09-16 17:58:55.122 [main] CartSD - Clicking on the Checkout button
+[INFO ] 2024-09-16 17:58:55.488 [main] CartSD - Navigated to checkout page
+[INFO ] 2024-09-16 17:58:55.488 [main] CartSD - Navigated to checkout page
+[INFO ] 2024-09-16 17:58:55.505 [main] CartSD - Entering checkout information: John, Doe, 12345
+[INFO ] 2024-09-16 17:58:55.505 [main] CartSD - Entering checkout information: John, Doe, 12345
+[INFO ] 2024-09-16 17:58:59.045 [main] CartSD - Checkout information entered successfully
+[INFO ] 2024-09-16 17:58:59.045 [main] CartSD - Checkout information entered successfully
+[INFO ] 2024-09-16 17:58:59.055 [main] CartSD - Completing the checkout process
+[INFO ] 2024-09-16 17:58:59.055 [main] CartSD - Completing the checkout process
+[INFO ] 2024-09-16 17:58:59.590 [main] CartSD - Checkout process completed
+[INFO ] 2024-09-16 17:58:59.590 [main] CartSD - Checkout process completed
+[INFO ] 2024-09-16 17:58:59.597 [main] CartSD - Verifying the order confirmation page is displayed
+[INFO ] 2024-09-16 17:58:59.597 [main] CartSD - Verifying the order confirmation page is displayed
+[INFO ] 2024-09-16 17:59:00.070 [main] CartSD - Order confirmation page verified
+[INFO ] 2024-09-16 17:59:00.070 [main] CartSD - Order confirmation page verified

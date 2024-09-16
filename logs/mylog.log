@@ -1,0 +1,215 @@
+[INFO ] 2024-09-16 21:14:50.745 [main] CartSD - Navigating to the login page
+[INFO ] 2024-09-16 21:14:52.870 [main] CartSD - Successfully logged in and navigated to product page
+[INFO ] 2024-09-16 21:14:52.926 [main] CartSD - Adding product Sauce Labs Backpack to the cart
+[INFO ] 2024-09-16 21:15:03.740 [main] CartSD - Product Sauce Labs Backpack added to the cart
+[INFO ] 2024-09-16 21:15:03.751 [main] CartSD - Clicking on the cart icon
+[INFO ] 2024-09-16 21:15:04.326 [main] CartSD - Navigated to the cart
+[INFO ] 2024-09-16 21:15:04.338 [main] CartSD - Verifying the product Sauce Labs Backpack is in the cart
+[INFO ] 2024-09-16 21:15:04.565 [main] CartSD - Product Sauce Labs Backpack found in the cart
+[INFO ] 2024-09-16 21:15:12.593 [main] CartSD - Logging in and adding product Sauce Labs Backpack to the cart
+[INFO ] 2024-09-16 21:15:26.837 [main] CartSD - Product Sauce Labs Backpack is added to the cart
+[INFO ] 2024-09-16 21:15:26.847 [main] CartSD - Removing product Sauce Labs Backpack from the cart
+[INFO ] 2024-09-16 21:15:39.210 [main] CartSD - Product Sauce Labs Backpack removed from the cart
+[INFO ] 2024-09-16 21:15:39.219 [main] CartSD - Verifying product Sauce Labs Backpack is no longer in the cart
+[INFO ] 2024-09-16 21:15:49.394 [main] CartSD - Product Sauce Labs Backpack successfully removed from the cart
+[INFO ] 2024-09-16 21:15:49.404 [main] CartSD - Verifying the cart count is updated
+[INFO ] 2024-09-16 21:15:49.406 [main] CartSD - Cart count successfully updated
+[INFO ] 2024-09-16 21:16:11.564 [main] CartSD - Logging in and adding product Sauce Labs Backpack to the cart
+[INFO ] 2024-09-16 21:16:23.122 [main] CartSD - Product Sauce Labs Backpack is added to the cart
+[INFO ] 2024-09-16 21:16:23.135 [main] CartSD - Clicking on the Checkout button
+[INFO ] 2024-09-16 21:16:23.572 [main] CartSD - Navigated to checkout page
+[INFO ] 2024-09-16 21:16:23.588 [main] CartSD - Entering checkout information: John, Doe, 12345
+[INFO ] 2024-09-16 21:16:24.912 [main] CartSD - Checkout information entered successfully
+[INFO ] 2024-09-16 21:16:24.922 [main] CartSD - Completing the checkout process
+[INFO ] 2024-09-16 21:16:25.153 [main] CartSD - Checkout process completed
+[INFO ] 2024-09-16 21:16:25.168 [main] CartSD - Verifying the order confirmation page is displayed
+[INFO ] 2024-09-16 21:16:25.258 [main] CartSD - Order confirmation page verified
+[INFO ] 2024-09-16 21:16:35.301 [main] LoginSD - Navigating to the login page
+[INFO ] 2024-09-16 21:16:35.350 [main] LoginSD - Entering username: standard_user and password: secret_sauce
+[INFO ] 2024-09-16 21:16:36.450 [main] LoginSD - Clicking the login button
+[INFO ] 2024-09-16 21:16:37.066 [main] LoginSD - Verifying if user is redirected to the product page
+[INFO ] 2024-09-16 21:16:46.904 [main] LoginSD - Navigating to the login page
+[INFO ] 2024-09-16 21:16:46.951 [main] LoginSD - Entering username: standard_use11r and password: secret_sauce111
+[INFO ] 2024-09-16 21:16:47.937 [main] LoginSD - Clicking the login button
+[INFO ] 2024-09-16 21:17:18.875 [main] LoginSD - Verifying if error message is displayed for wrong credentials
+[INFO ] 2024-09-16 21:17:29.659 [main] LoginSD - Navigating to the login page
+[INFO ] 2024-09-16 21:17:29.702 [main] LoginSD - Entering username:  and password: 
+[INFO ] 2024-09-16 21:17:32.718 [main] LoginSD - Clicking the login button
+[INFO ] 2024-09-16 21:18:05.358 [main] LoginSD - Verifying if error message is displayed for empty fields
+[INFO ] 2024-09-16 21:18:36.330 [main] navigationSD - Navigating to the homepage and logging in
+[INFO ] 2024-09-16 21:18:39.386 [main] navigationSD - Navigating to the product page
+[INFO ] 2024-09-16 21:18:39.443 [main] navigationSD - Verifying the current URL is the product page
+[INFO ] 2024-09-16 21:18:39.511 [main] navigationSD - Navigating to the cart page
+[INFO ] 2024-09-16 21:18:39.986 [main] navigationSD - Verifying the current URL is the cart page
+[INFO ] 2024-09-16 21:18:40.032 [main] navigationSD - Navigating to the checkout page
+[INFO ] 2024-09-16 21:18:40.339 [main] navigationSD - Verifying the current URL is the checkout page
+[INFO ] 2024-09-16 21:18:53.577 [main] navigationSD - Logging in to the application
+[INFO ] 2024-09-16 21:18:54.744 [main] navigationSD - Clicking on the Logout button
+[WARN ] 2024-09-16 21:19:05.040 [main] navigationSD - Failed to log out of the application
+[INFO ] 2024-09-16 21:19:18.080 [main] ProductSD - Navigating to the login page
+[INFO ] 2024-09-16 21:19:19.607 [main] ProductSD - Login successful
+[INFO ] 2024-09-16 21:19:19.614 [main] ProductSD - Verifying if user landed on the product page
+[INFO ] 2024-09-16 21:19:19.678 [main] ProductSD - Verifying product list display
+[INFO ] 2024-09-16 21:19:20.392 [main] ProductSD - Verifying product list content
+[INFO ] 2024-09-16 21:19:29.967 [main] ProductSD - Navigating to the login page
+[INFO ] 2024-09-16 21:19:31.428 [main] ProductSD - Login successful
+[INFO ] 2024-09-16 21:19:31.447 [main] ProductSD - Clicking on product Sauce Labs Backpack
+[INFO ] 2024-09-16 21:19:43.402 [main] ProductSD - Navigating to the login page
+[INFO ] 2024-09-16 21:19:45.141 [main] ProductSD - Login successful
+[INFO ] 2024-09-16 21:19:45.151 [main] ProductSD - Adding product Sauce Labs Backpack to the cart
+[INFO ] 2024-09-16 21:19:55.553 [main] ProductSD - Verifying cart count increase
+[INFO ] 2024-09-16 21:19:55.562 [main] ProductSD - Verifying product Sauce Labs Backpack is listed in the cart
+[INFO ] 2024-09-16 21:24:31.651 [main] navigationSD - Navigating to the homepage and logging in
+[INFO ] 2024-09-16 21:24:32.898 [main] navigationSD - Navigating to the product page
+[INFO ] 2024-09-16 21:24:32.927 [main] navigationSD - Verifying the current URL is the product page
+[INFO ] 2024-09-16 21:24:32.980 [main] navigationSD - Navigating to the cart page
+[INFO ] 2024-09-16 21:24:33.230 [main] navigationSD - Verifying the current URL is the cart page
+[INFO ] 2024-09-16 21:24:33.259 [main] navigationSD - Navigating to the checkout page
+[INFO ] 2024-09-16 21:24:33.517 [main] navigationSD - Verifying the current URL is the checkout page
+[INFO ] 2024-09-16 21:24:40.391 [main] navigationSD - Logging in to the application
+[INFO ] 2024-09-16 21:24:41.755 [main] navigationSD - Clicking on the Logout button
+[INFO ] 2024-09-16 21:24:47.459 [main] navigationSD - Verifying if user is redirected to the login page
+[INFO ] 2024-09-16 21:26:30.988 [main] navigationSD - Navigating to the homepage and logging in
+[INFO ] 2024-09-16 21:26:33.716 [main] navigationSD - Navigating to the product page
+[INFO ] 2024-09-16 21:26:33.777 [main] navigationSD - Verifying the current URL is the product page
+[INFO ] 2024-09-16 21:26:33.854 [main] navigationSD - Navigating to the cart page
+[INFO ] 2024-09-16 21:26:34.233 [main] navigationSD - Verifying the current URL is the cart page
+[INFO ] 2024-09-16 21:26:34.271 [main] navigationSD - Navigating to the checkout page
+[INFO ] 2024-09-16 21:26:34.547 [main] navigationSD - Verifying the current URL is the checkout page
+[INFO ] 2024-09-16 21:26:41.756 [main] navigationSD - Logging in to the application
+[INFO ] 2024-09-16 21:27:11.462 [main] navigationSD - Clicking on the Logout button
+[WARN ] 2024-09-16 21:27:21.841 [main] navigationSD - Failed to log out of the application
+[INFO ] 2024-09-16 21:29:24.778 [main] navigationSD - Navigating to the homepage and logging in
+[INFO ] 2024-09-16 21:30:07.485 [main] navigationSD - Navigating to the product page
+[WARN ] 2024-09-16 21:30:24.358 [main] navigationSD - Failed to navigate to the product page
+[INFO ] 2024-09-16 21:31:33.294 [main] navigationSD - Navigating to the homepage and logging in
+[INFO ] 2024-09-16 21:31:34.477 [main] navigationSD - Navigating to the product page
+[INFO ] 2024-09-16 21:31:34.521 [main] navigationSD - Verifying the current URL is the product page
+[INFO ] 2024-09-16 21:31:34.627 [main] navigationSD - Navigating to the cart page
+[INFO ] 2024-09-16 21:31:35.328 [main] navigationSD - Verifying the current URL is the cart page
+[INFO ] 2024-09-16 21:31:35.394 [main] navigationSD - Navigating to the checkout page
+[INFO ] 2024-09-16 21:31:35.688 [main] navigationSD - Verifying the current URL is the checkout page
+[INFO ] 2024-09-16 21:31:45.041 [main] navigationSD - Logging in to the application
+[INFO ] 2024-09-16 21:31:47.067 [main] navigationSD - Clicking on the Logout button
+[INFO ] 2024-09-16 21:31:47.823 [main] navigationSD - Verifying if user is redirected to the login page
+[INFO ] 2024-09-16 21:36:40.005 [main] navigationSD - Navigating to the homepage and logging in
+[INFO ] 2024-09-16 21:36:41.850 [main] navigationSD - Navigating to the product page
+[INFO ] 2024-09-16 21:36:41.881 [main] navigationSD - Verifying the current URL is the product page
+[INFO ] 2024-09-16 21:36:41.909 [main] navigationSD - Navigating to the cart page
+[INFO ] 2024-09-16 21:36:42.233 [main] navigationSD - Verifying the current URL is the cart page
+[INFO ] 2024-09-16 21:36:42.263 [main] navigationSD - Navigating to the checkout page
+[INFO ] 2024-09-16 21:36:42.520 [main] navigationSD - Verifying the current URL is the checkout page
+[INFO ] 2024-09-16 21:36:52.304 [main] navigationSD - Logging in to the application
+[INFO ] 2024-09-16 21:36:54.889 [main] navigationSD - Clicking on the Logout button
+[INFO ] 2024-09-16 21:36:55.786 [main] navigationSD - Verifying if user is redirected to the login page
+[INFO ] 2024-09-16 21:40:36.296 [main] navigationSD - Navigating to the homepage and logging in
+[INFO ] 2024-09-16 21:40:38.299 [main] navigationSD - Navigating to the product page
+[INFO ] 2024-09-16 21:40:38.345 [main] navigationSD - Verifying the current URL is the product page
+[INFO ] 2024-09-16 21:40:38.398 [main] navigationSD - Navigating to the cart page
+[INFO ] 2024-09-16 21:40:38.698 [main] navigationSD - Verifying the current URL is the cart page
+[INFO ] 2024-09-16 21:40:38.727 [main] navigationSD - Navigating to the checkout page
+[INFO ] 2024-09-16 21:40:38.974 [main] navigationSD - Verifying the current URL is the checkout page
+[INFO ] 2024-09-16 21:40:46.210 [main] navigationSD - Logging in to the application
+[INFO ] 2024-09-16 21:40:48.174 [main] navigationSD - Clicking on the Logout button
+[INFO ] 2024-09-16 21:40:48.756 [main] navigationSD - Verifying if user is redirected to the login page
+[INFO ] 2024-09-16 21:44:52.353 [main] navigationSD - Navigating to the homepage and logging in
+[INFO ] 2024-09-16 21:44:54.292 [main] navigationSD - Navigating to the product page
+[INFO ] 2024-09-16 21:44:54.342 [main] navigationSD - Verifying the current URL is the product page
+[INFO ] 2024-09-16 21:44:54.379 [main] navigationSD - Navigating to the cart page
+[INFO ] 2024-09-16 21:44:54.720 [main] navigationSD - Verifying the current URL is the cart page
+[INFO ] 2024-09-16 21:44:54.746 [main] navigationSD - Navigating to the checkout page
+[INFO ] 2024-09-16 21:44:55.049 [main] navigationSD - Verifying the current URL is the checkout page
+[INFO ] 2024-09-16 21:45:02.081 [main] navigationSD - Logging in to the application
+[INFO ] 2024-09-16 21:45:06.044 [main] navigationSD - Clicking on the Logout button
+[WARN ] 2024-09-16 21:45:16.487 [main] navigationSD - Failed to log out of the application
+[INFO ] 2024-09-16 21:45:58.084 [main] navigationSD - Navigating to the homepage and logging in
+[INFO ] 2024-09-16 21:45:59.955 [main] navigationSD - Navigating to the product page
+[INFO ] 2024-09-16 21:45:59.998 [main] navigationSD - Verifying the current URL is the product page
+[INFO ] 2024-09-16 21:46:00.128 [main] navigationSD - Navigating to the cart page
+[INFO ] 2024-09-16 21:46:00.636 [main] navigationSD - Verifying the current URL is the cart page
+[INFO ] 2024-09-16 21:46:00.678 [main] navigationSD - Navigating to the checkout page
+[INFO ] 2024-09-16 21:46:00.942 [main] navigationSD - Verifying the current URL is the checkout page
+[INFO ] 2024-09-16 21:46:08.543 [main] navigationSD - Logging in to the application
+[INFO ] 2024-09-16 21:46:10.284 [main] navigationSD - Clicking on the Logout button
+[INFO ] 2024-09-16 21:46:10.919 [main] navigationSD - Verifying if user is redirected to the login page
+[INFO ] 2024-09-16 21:48:39.449 [main] navigationSD - Navigating to the homepage and logging in
+[INFO ] 2024-09-16 21:48:41.319 [main] navigationSD - Navigating to the product page
+[INFO ] 2024-09-16 21:48:41.368 [main] navigationSD - Verifying the current URL is the product page
+[INFO ] 2024-09-16 21:48:41.407 [main] navigationSD - Navigating to the cart page
+[INFO ] 2024-09-16 21:48:41.768 [main] navigationSD - Verifying the current URL is the cart page
+[INFO ] 2024-09-16 21:48:41.806 [main] navigationSD - Navigating to the checkout page
+[INFO ] 2024-09-16 21:48:42.100 [main] navigationSD - Verifying the current URL is the checkout page
+[INFO ] 2024-09-16 21:48:49.202 [main] navigationSD - Logging in to the application
+[INFO ] 2024-09-16 21:48:51.162 [main] navigationSD - Clicking on the Logout button
+[INFO ] 2024-09-16 21:48:51.809 [main] navigationSD - Verifying if user is redirected to the login page
+[INFO ] 2024-09-16 21:50:21.203 [main] navigationSD - Navigating to the homepage and logging in
+[INFO ] 2024-09-16 21:50:23.165 [main] navigationSD - Navigating to the product page
+[INFO ] 2024-09-16 21:50:23.236 [main] navigationSD - Verifying the current URL is the product page
+[INFO ] 2024-09-16 21:50:23.269 [main] navigationSD - Navigating to the cart page
+[INFO ] 2024-09-16 21:50:23.644 [main] navigationSD - Verifying the current URL is the cart page
+[INFO ] 2024-09-16 21:50:23.671 [main] navigationSD - Navigating to the checkout page
+[INFO ] 2024-09-16 21:50:23.916 [main] navigationSD - Verifying the current URL is the checkout page
+[INFO ] 2024-09-16 21:50:31.009 [main] navigationSD - Logging in to the application
+[INFO ] 2024-09-16 21:50:33.106 [main] navigationSD - Clicking on the Logout button
+[WARN ] 2024-09-16 21:50:33.892 [main] navigationSD - Failed to log out of the application
+[INFO ] 2024-09-16 21:55:13.573 [main] CartSD - Navigating to the login page
+[INFO ] 2024-09-16 21:55:15.865 [main] CartSD - Successfully logged in and navigated to product page
+[INFO ] 2024-09-16 21:55:15.901 [main] CartSD - Adding product Sauce Labs Backpack to the cart
+[INFO ] 2024-09-16 21:55:27.348 [main] CartSD - Product Sauce Labs Backpack added to the cart
+[INFO ] 2024-09-16 21:55:27.361 [main] CartSD - Clicking on the cart icon
+[INFO ] 2024-09-16 21:55:28.223 [main] CartSD - Navigated to the cart
+[INFO ] 2024-09-16 21:55:28.234 [main] CartSD - Verifying the product Sauce Labs Backpack is in the cart
+[INFO ] 2024-09-16 21:55:28.535 [main] CartSD - Product Sauce Labs Backpack found in the cart
+[INFO ] 2024-09-16 21:55:36.710 [main] CartSD - Logging in and adding product Sauce Labs Backpack to the cart
+[INFO ] 2024-09-16 21:55:49.262 [main] CartSD - Product Sauce Labs Backpack is added to the cart
+[INFO ] 2024-09-16 21:55:49.271 [main] CartSD - Removing product Sauce Labs Backpack from the cart
+[INFO ] 2024-09-16 21:56:03.787 [main] CartSD - Product Sauce Labs Backpack removed from the cart
+[INFO ] 2024-09-16 21:56:03.797 [main] CartSD - Verifying product Sauce Labs Backpack is no longer in the cart
+[INFO ] 2024-09-16 21:56:13.917 [main] CartSD - Product Sauce Labs Backpack successfully removed from the cart
+[INFO ] 2024-09-16 21:56:13.931 [main] CartSD - Verifying the cart count is updated
+[INFO ] 2024-09-16 21:56:13.932 [main] CartSD - Cart count successfully updated
+[INFO ] 2024-09-16 21:56:21.328 [main] CartSD - Logging in and adding product Sauce Labs Backpack to the cart
+[INFO ] 2024-09-16 21:56:33.631 [main] CartSD - Product Sauce Labs Backpack is added to the cart
+[INFO ] 2024-09-16 21:56:33.641 [main] CartSD - Clicking on the Checkout button
+[INFO ] 2024-09-16 21:56:34.359 [main] CartSD - Navigated to checkout page
+[INFO ] 2024-09-16 21:56:34.372 [main] CartSD - Entering checkout information: John, Doe, 12345
+[INFO ] 2024-09-16 21:56:38.851 [main] CartSD - Checkout information entered successfully
+[INFO ] 2024-09-16 21:56:38.858 [main] CartSD - Completing the checkout process
+[INFO ] 2024-09-16 21:56:39.300 [main] CartSD - Checkout process completed
+[INFO ] 2024-09-16 21:56:39.306 [main] CartSD - Verifying the order confirmation page is displayed
+[INFO ] 2024-09-16 21:56:39.572 [main] CartSD - Order confirmation page verified
+[INFO ] 2024-09-16 21:56:47.273 [main] LoginSD - Navigating to the login page
+[INFO ] 2024-09-16 21:56:47.364 [main] LoginSD - Entering username: standard_user and password: secret_sauce
+[INFO ] 2024-09-16 21:56:48.539 [main] LoginSD - Clicking the login button
+[INFO ] 2024-09-16 21:56:49.231 [main] LoginSD - Verifying if user is redirected to the product page
+[INFO ] 2024-09-16 21:56:56.884 [main] LoginSD - Navigating to the login page
+[INFO ] 2024-09-16 21:56:56.981 [main] LoginSD - Entering username: standard_use11r and password: secret_sauce111
+[INFO ] 2024-09-16 21:56:58.348 [main] LoginSD - Clicking the login button
+[INFO ] 2024-09-16 21:57:29.185 [main] LoginSD - Verifying if error message is displayed for wrong credentials
+[INFO ] 2024-09-16 21:57:36.339 [main] LoginSD - Navigating to the login page
+[INFO ] 2024-09-16 21:57:36.386 [main] LoginSD - Entering username:  and password: 
+[INFO ] 2024-09-16 21:57:37.306 [main] LoginSD - Clicking the login button
+[INFO ] 2024-09-16 21:58:07.911 [main] LoginSD - Verifying if error message is displayed for empty fields
+[INFO ] 2024-09-16 21:58:15.894 [main] navigationSD - Navigating to the homepage and logging in
+[INFO ] 2024-09-16 21:58:17.967 [main] navigationSD - Navigating to the product page
+[INFO ] 2024-09-16 21:58:18.027 [main] navigationSD - Verifying the current URL is the product page
+[INFO ] 2024-09-16 21:58:18.064 [main] navigationSD - Navigating to the cart page
+[INFO ] 2024-09-16 21:58:18.532 [main] navigationSD - Verifying the current URL is the cart page
+[INFO ] 2024-09-16 21:58:18.561 [main] navigationSD - Navigating to the checkout page
+[INFO ] 2024-09-16 21:58:18.846 [main] navigationSD - Verifying the current URL is the checkout page
+[INFO ] 2024-09-16 21:58:27.263 [main] navigationSD - Logging in to the application
+[INFO ] 2024-09-16 21:58:29.208 [main] navigationSD - Clicking on the Logout button
+[INFO ] 2024-09-16 21:58:29.835 [main] navigationSD - Verifying if user is redirected to the login page
+[INFO ] 2024-09-16 21:58:37.874 [main] ProductSD - Navigating to the login page
+[INFO ] 2024-09-16 21:58:39.519 [main] ProductSD - Login successful
+[INFO ] 2024-09-16 21:58:39.523 [main] ProductSD - Verifying if user landed on the product page
+[INFO ] 2024-09-16 21:58:39.669 [main] ProductSD - Verifying product list display
+[INFO ] 2024-09-16 21:58:40.303 [main] ProductSD - Verifying product list content
+[INFO ] 2024-09-16 21:58:47.866 [main] ProductSD - Navigating to the login page
+[INFO ] 2024-09-16 21:58:49.700 [main] ProductSD - Login successful
+[INFO ] 2024-09-16 21:58:49.707 [main] ProductSD - Clicking on product Sauce Labs Backpack
+[INFO ] 2024-09-16 21:58:59.044 [main] ProductSD - Navigating to the login page
+[INFO ] 2024-09-16 21:59:00.881 [main] ProductSD - Login successful
+[INFO ] 2024-09-16 21:59:00.923 [main] ProductSD - Adding product Sauce Labs Backpack to the cart
+[INFO ] 2024-09-16 21:59:14.332 [main] ProductSD - Verifying cart count increase
+[INFO ] 2024-09-16 21:59:14.338 [main] ProductSD - Verifying product Sauce Labs Backpack is listed in the cart
